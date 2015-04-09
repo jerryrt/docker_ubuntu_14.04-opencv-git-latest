@@ -1,5 +1,5 @@
 # docker_ubuntu_14.04-opencv-git-latest
-Dockerfile to build the latest OpenCV(with python2, python3 and Java bindings support).
+Dockerfile to build the latest OpenCV(3.0.0-dev, master branch, with python2, python3 and Java bindings support).
 
 It is a faily big image(over 2.8GB in size at the moment), what it contains:
 
