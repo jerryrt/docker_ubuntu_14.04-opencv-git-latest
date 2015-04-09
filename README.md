@@ -17,6 +17,6 @@ pre-build binaries.
 
 If you do want to try out with this image, you can type this(the image downloading could take a while :-( ):
 
-`$docker run jerrytian/ubuntu_14.04-opencv-git-latest python3.4 -c "import cv2; print(cv2.__version__);"`
+`$docker run jerrytian/docker_ubuntu_14.04-opencv-git-latest python3.4 -c "import cv2; print(cv2.__version__);"`
 
 Enjoy ;-)
