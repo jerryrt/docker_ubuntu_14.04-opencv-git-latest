@@ -6,6 +6,7 @@ It is a faily big image(over 2.8GB in size at the moment), what it contains:
 * A complete set of building tools needed to build OpenCV from source.
 * OpenJDK7, Python2(2.7.4)and Python3(3.4).
 * OpenCV bindings with all of the compoenents above. 
+* Full copy of OpenCV source code, on "/opt/opencv-build".
 
 I am building this in order to ease the setup of my learning of OpenCV with different
 languages, on different machines. 
